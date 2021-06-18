@@ -38,10 +38,6 @@
 
 <a id="pre-requisitos"></a>
 
-## Demonstração da aplicação
-
-Acesse: <https://jobs-calc1.herokuapp.com/>
-
 ## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina:
@@ -54,8 +50,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/tarcisiodelmondes/jobs-calc.git
-
+$ https://github.com/GuilhermeTrafani/JobsCalculadora.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd jobs-calc
 
@@ -90,11 +85,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
 
-<a id="layout"></a>
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <a id="licenca"></a>
 
@@ -104,4 +94,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
